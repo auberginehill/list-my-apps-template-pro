@@ -7,7 +7,7 @@
 |  **OS:**           |  Android                                              |
 |  **Type:**         |  A template for an Android app called '[List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)'  |
 |  **Language:**     |  mostly HTML (with extra variables)                   |
-|  **Description:**  |  This template (when run in an Android app called 'List My Apps') creates a HTML list (in table format) of the apps installed on the device.  |
+|  **Description:**  |  This template (when run in an Android app called 'List My Apps') creates a HTML list (in list format) of the apps installed on the device.  |
 |  **Homepage:**     |	<https://github.com/auberginehill/list-my-apps-template-pro>
 
 
