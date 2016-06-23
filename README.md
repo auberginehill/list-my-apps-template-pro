@@ -95,7 +95,7 @@ Find a bug? Have a feature request? Here is how you can contribute to this List 
 
 #### Related scripts
 
-- [List My Apps Template - Pro](https://github.com/auberginehill/list-my-apps-template-table)
+- [List My Apps Template - Table](https://github.com/auberginehill/list-my-apps-template-table)
 - [List My Apps Template - List](https://github.com/auberginehill/list-my-apps-template-list)
 - [List My Apps Template - Data](https://github.com/auberginehill/list-my-apps-template-data)
 - [List My Apps Template - XML plain](https://github.com/auberginehill/list-my-apps-template-xml-plain)
