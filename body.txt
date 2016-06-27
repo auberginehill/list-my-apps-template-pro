@@ -1,0 +1,78 @@
+        <li><span class="name">${displayname}</span><br>
+        <br>
+        <br>
+                <table class="main" style="width:99%; margin-left:4em">
+                    <tr>
+                        <th style="width:20%">Comment</th>
+                        <td>${comment}</td>
+                    </tr>
+                    <tr>
+                        <th>Data Directory</th>
+                        <td>${datadir}</td>
+                    </tr>
+                    <tr>
+                        <th>First Installed</th>
+                        <td>${firstinstalled}</td>
+                    </tr>
+                    <tr>
+                        <th>Last Updated</th>
+                        <td>${lastupdated}</td>
+                    </tr>
+                    <tr>
+                        <th>Market ID</th>
+                        <td>${marketid}</td>
+                    </tr>
+                    <tr>
+                        <th>Market Link</th>
+                        <td>market://details?id=${packagename}</td>
+                    </tr>
+                    <tr>
+                        <th>Name</th>
+                        <td>${displayname}</td>
+                    </tr>
+                    <tr>
+                        <th>Package Name</th>
+                        <td>${packagename}</td>
+                    </tr>
+                    <tr>
+                        <th>Tags</th>
+                        <td>${tags}</td>
+                    </tr>
+                    <tr>
+                        <th>Target SDK</th>
+                        <td>${targetsdk}</td>
+                    </tr>
+                    <tr>
+                        <th>UID</th>
+                        <td>${uid}</td>
+                    </tr>
+                    <tr>
+                        <th>Version</th>
+                        <td>${version}</td>
+                    </tr>
+                    <tr>
+                        <th>Version Code</th>
+                        <td>${versioncode}</td>
+                    </tr>
+                    <tr>
+                        <th>www</th>
+                        <td><a href="${source}">${source}</a></td>
+                    </tr>
+                    <tr>
+                        <th>Google Store</th>
+                        <td><a href="https://play.google.com/store/apps/details?id=${packagename}">https://play.google.com/store/apps/details?id=${packagename}</a></td>
+                    </tr>
+                    <tr>
+                        <th>Search (Google)</th>
+                        <td><a href="https://www.google.com/search?q=${packagename}">https://www.google.com/search?q=${packagename}</a></td>
+                    </tr>
+                    <tr>
+                        <th>DuckDuckGo</th>
+                        <td><a href="https://duckduckgo.com/?q=${packagename}+%22${displayname}%22">https://duckduckgo.com/?q=${packagename}+"${displayname}"</a></td>
+                    </tr>
+                </table>
+            <div class="right_pane"><a href="#bottom">↓ Bottom ↓</a>  |  <a href="#top">↑ Top ↑</a></div>
+            <div style="margin-top:4em; margin-bottom:3.5em">
+                <hr style="width:50%; text-align:left; margin-left:0">
+            </div>
+</li>
